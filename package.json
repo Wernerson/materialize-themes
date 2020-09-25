@@ -12,15 +12,16 @@
   },
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^6.5.2",
-    "gulp": "^3.9.1",
-    "gulp-clean": "^0.3.2",
-    "gulp-clean-css": "^2.0.13",
-    "gulp-postcss": "^6.2.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-replace": "^0.5.4",
-    "gulp-sass": "^2.3.2",
-    "materialize-css": "0.97.8",
-    "merge-stream": "^1.0.0"
+    "autoprefixer": "^10.0.0",
+    "gulp": "^4.0.2",
+    "del": "^5.1.0",
+    "gulp-clean-css": "^4.3.0",
+    "postcss": "^8.0.9",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "materialize-css": "1.0.0",
+    "merge-stream": "^1.0.1"
   }
 }
